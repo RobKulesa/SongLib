@@ -9,7 +9,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import songlib.view.Controller;
 
-public class App extends Application {
+public class SongLib extends Application {
 
 	Stage mainStage;
 	
@@ -35,7 +35,6 @@ public class App extends Application {
 		}
 		
 	}
-	
 	
 	public static void main(String[] args) {
 		launch(args);
