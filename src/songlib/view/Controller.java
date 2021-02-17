@@ -1,5 +1,5 @@
 /**
- * Rutgers CS213 Sp21 SongLib (Asst0) 
+ * Rutgers CS213 Sp21 SongLib (Asst1) 
  * @author Rob Kulesa
  * @author Aaron Kan
  */
@@ -30,7 +30,7 @@ import songlib.app.models.SongModel;
 
 public class Controller {
 	private static final boolean DEBUG = false;
-	private static final String testFile = "empty.txt";
+	private static final String testFile = "songs.txt";
 	private static boolean allowSelect = true;
 	Stage mainStage;
 
